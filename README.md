@@ -1,2 +1,2 @@
 # Machine_Learning
-Small Mchine  Learning project
+I have some small Machine  Learning project
